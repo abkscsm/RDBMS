@@ -1,1 +1,1 @@
-SELECT * FROM students WHERE city = 'Mumbai';
+SELECT * FROM students WHERE city = 'Pune';
